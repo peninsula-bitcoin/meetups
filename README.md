@@ -4,4 +4,4 @@ The Mornington Peninsula Bitcoin Group meets every second Monday of the month fo
 ## Next Meetup
 Monday 10th July 2023 - Locations and topics TBA
 
-Click here if you would like to [Add a New Presentation Idea](https://github.com/peninsula-bitcoin/meetups/issues/new?assignees=&labels=Presentation&projects=&template=presentation-idea.md&title=)
+Click here if you would like to [Add a presentation topic](https://github.com/peninsula-bitcoin/meetups/issues/new?assignees=&labels=Presentation&projects=&template=presentation-idea.md&title=)
